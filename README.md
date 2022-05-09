@@ -13,7 +13,6 @@
 <li>⚡ I am really passionated about user design in frontend applications.</li>
 </ul>
 </p>  
-<br>
 
 #### 🛠 &nbsp;Languages and Tools · Database
 
