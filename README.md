@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="250"/>
   <br>
   <a href="https://www.linkedin.com/in/anna-lopez-ribo"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>&nbsp;
-  <a mailto="annalopezribo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
+  <a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>(mailto:annalopezribo@gmail.com)
 <h4> About me </h4>
 
 <p>
