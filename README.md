@@ -2,7 +2,7 @@
 
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="250"/>
   
-#### About me
+<h4> About me </h4>
 
 <p>
 <ul>
