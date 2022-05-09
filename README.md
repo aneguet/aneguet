@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![-](https://github-readme-stats.vercel.app/api?username=aneguet&show_icons=true)](https://github.com/aneguet) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aneguet&layout=compact)](https://github.com/aneguet)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aneguet&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneguet&layout=compact&theme=radical" />
+</a>
