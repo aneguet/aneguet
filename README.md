@@ -12,6 +12,9 @@
 <li>⚡ I am really passionated about user design in frontend applications.</li>
 </ul>
 </p>  
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+          
 
 
 
