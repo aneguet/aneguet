@@ -40,6 +40,7 @@
 #### 🧪 &nbsp;Testing Tools
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="45" height="50"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" width="auto" height="50"/>&nbsp;
 </p>
 
 #### 📚 &nbsp;Other tools
