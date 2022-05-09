@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/anna-lopez-ribo"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>&nbsp;&nbsp;
   <a href="MAILTO:annalopezribo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
 
-#### About me
+#### 😊 &nbsp;About me
 <p>
 <ul>
 <li>🔭 I have 3 years of experience working as a Web Developer.</li>
@@ -14,7 +14,7 @@
 </ul>
 </p>  
 
-#### 🛠 &nbsp;Languages and Tools · Database
+#### 🗃️ &nbsp;Languages and Tools · Database
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="50"/>&nbsp;
