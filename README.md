@@ -18,6 +18,8 @@
 #### 🛠 &nbsp;Languages and Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"/>&nbsp;
+          
 
 #### 🛠 &nbsp;Other tools
 
