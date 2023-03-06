@@ -2,7 +2,7 @@
 
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="250"/>
   <br>
-  <a href="https://www.linkedin.com/in/anna-lopez-ribo"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/anna-lopez-ribo-239aba267"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>&nbsp;&nbsp;
   <a href="MAILTO:annalopezribo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
 
 
